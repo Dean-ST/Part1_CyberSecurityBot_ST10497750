@@ -11,7 +11,7 @@ namespace Part1_CyberSecurityBot_ST10497750
     {
         public string Name { get; set; }
 
-        // Constructor to initialize user name
+        // Constructor for initializing user name
         public User(string name)
         {
             Name = name;

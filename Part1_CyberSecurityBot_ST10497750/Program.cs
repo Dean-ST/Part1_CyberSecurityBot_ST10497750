@@ -12,6 +12,7 @@ namespace Part1_CyberSecurityBot_ST10497750
     {
         static void Main(string[] args)
         {
+        
             // Set console color for better UI
             Console.ForegroundColor = ConsoleColor.Cyan;
 

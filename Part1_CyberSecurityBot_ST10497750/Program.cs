@@ -55,7 +55,7 @@ namespace Part1_CyberSecurityBot_ST10497750
             foreach (char c in message)
             {
                 Console.Write(c);
-                Thread.Sleep(30); // typing speed
+                Thread.Sleep(30); //  the typing speed
             }
             Console.WriteLine();
         }

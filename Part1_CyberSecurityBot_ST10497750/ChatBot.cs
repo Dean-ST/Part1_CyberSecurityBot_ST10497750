@@ -28,7 +28,7 @@ namespace Part1_CyberSecurityBot_ST10497750
                 switch (choice)
                 {
                     case 1:
-                        Console.WriteLine("Cybersecurity is protecting systems and data from attacks.");
+                        Console.WriteLine("Cybersecurity is protecting systems and data from various attacks.");
                         break;
 
                     case 2:
